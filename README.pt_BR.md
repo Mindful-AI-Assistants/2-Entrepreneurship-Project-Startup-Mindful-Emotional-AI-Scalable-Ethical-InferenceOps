@@ -195,6 +195,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
+
 1. [Introduction](#introduction)  
 2. [Contexto de Transformação Digital, Compliance Corporativo e SAP GTS E4HANA](#contexto-de-transformação-digital-compliance-corporativo-e-sap-gts-e4hana)  
 3. [The Problem and the Solution — InferenceOps for Emotion AI](#the-problem-and-the-solution-inferenceops-for-emotion-ai)  
