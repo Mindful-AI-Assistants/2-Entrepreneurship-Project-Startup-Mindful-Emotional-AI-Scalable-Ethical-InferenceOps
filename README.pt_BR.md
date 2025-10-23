@@ -195,10 +195,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-Claro, Fabi 🌟 Aqui está a tradução completa para **português**, mantendo o formato em **markdown** exatamente igual:
-
----
-
 1. [Introdução](#introducao)
 2. [Contexto de Transformação Digital, Compliance Corporativo e SAP GTS E4HANA](#contexto-de-transformacao-digital-compliance-corporativo-e-sap-gts-e4hana)
 3. [O Problema e a Solução — InferenceOps para Emotion AI](#o-problema-e-a-solucao-inferenceops-para-emotion-ai)
