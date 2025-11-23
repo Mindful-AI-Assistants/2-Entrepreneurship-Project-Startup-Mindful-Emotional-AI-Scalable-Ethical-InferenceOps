@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)* <br>
 > 
->  * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
+> * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
 >
 > <br>
 >
@@ -117,38 +117,17 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
-#
-
 <!--Confidentiality Statement-->
 
-<br><br>
-<br><br>
 
 #
 
 <br><br>
 
 
-> [!IMPORTANT]
->
->
-> <br>
+> [!NOTE]
 >
 > * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*](https://www.summitieia.com/) on [*Emotional Intelligence & Artificial Intelligence*](https://www.summitieia.com/).
->
-> <br>
-
-
-<br><br>
-
-#
-
-<br><br>
-
-
-
-> [!IMPORTANT]
->
 > <br>
 >
 > * Open to [students]() from the Humanistic AI & Data Science program at [PUC-SP]()
@@ -156,8 +135,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > * [**Supporters:**]() Rector/Director/Prof — this section is not ready yet...
 >   
 > * All activities comply with [**PUC-SP academic and ethical guidelines**]()
->
-> <br>
 >
 
 
