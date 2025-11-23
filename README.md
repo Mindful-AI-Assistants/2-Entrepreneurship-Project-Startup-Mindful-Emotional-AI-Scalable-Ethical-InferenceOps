@@ -76,9 +76,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 #### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
 
 
-<br><br><br>
-
-
 
 <!--
 https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
@@ -103,15 +100,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
 >
-> <br>
->
->  This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
->  To explore all related materials, analyses, and notebooks, visit the repositories: 
+> * This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
+> * To explore all related materials, analyses, and notebooks, visit the repositories: 
 >
 > * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
 >
 > * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)
-> 
+>  
 >   
 
 
@@ -128,7 +123,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > [!NOTE]
 >
 > * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*](https://www.summitieia.com/) on [*Emotional Intelligence & Artificial Intelligence*](https://www.summitieia.com/).
-> <br>
 >
 > * Open to [students]() from the Humanistic AI & Data Science program at [PUC-SP]()
 >   
