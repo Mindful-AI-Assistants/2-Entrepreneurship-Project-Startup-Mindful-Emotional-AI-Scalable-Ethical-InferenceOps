@@ -107,7 +107,6 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied) <br>
 >  
->   
 
 
 <br><br>
