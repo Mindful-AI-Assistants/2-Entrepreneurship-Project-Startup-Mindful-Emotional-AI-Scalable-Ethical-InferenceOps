@@ -105,7 +105,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
 >
-> * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)
+> * **Applied Business Game Simulation Project Repo** - [3-Project-Business-Game-Simulation-Applied](https://github.com/Mindful-AI-Assistants/3-Project-Business-Game-Simulation-Applied)
 >  
 >   
 
