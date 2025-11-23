@@ -98,32 +98,30 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 
 > [!TIP]
->
-> <br>
 > 
-> #### [**Founders**]() & [**Partners**]()
-> 
-> <br>
-> 
-> * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)*
->   
-> <br>
+> * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)* <br>
 > 
 >  * **Special Collaborator:** [**Dr. André Iório, Ph.D. in Clinical Psychiatry and Psychology**](https://saudemental.space/) — *Medical Doctor, Psychiatrist (USP)*; *Ph.D. in Clinical Psychology (PUC-SP)*
 >
 > <br>
 >
-> * [**Partners:**]()  
->  
->   - Pedro Victor  
->   - Pedro Barrenco  
->   - Andson Ribeiro  
->   - Luan Fabiano  
->   - Jose Augusto
+>  This repository is part of the main project Ethical Entrepreneurship amd Innovation in Humanistic AI & Data Science - PUC-SP. <br>
+>  To explore all related materials, analyses, and notebooks, visit the repositories: 
 >
-> <br>
+> * **Main Repo** - [1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP](https://github.com/Mindful-AI-Assistants/1-Ethical_Entrepreneurship_Innovation_Humanistic-AI-DataScience-PucSP)
 >
+> * **Project Startup Repo** - [2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps](https://github.com/Mindful-AI-Assistants/2-Entrepreneurship-Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps)
+> 
+>   
 
+
+<br><br>
+
+#
+
+<!--Confidentiality Statement-->
+
+<br><br>
 <br><br>
 
 #
