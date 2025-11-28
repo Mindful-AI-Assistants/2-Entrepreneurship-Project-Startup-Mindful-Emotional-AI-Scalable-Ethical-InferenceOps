@@ -1,4 +1,7 @@
-<br><br>
+<br>
+
+
+
 
 
 #### Where and How  🌱 to Start ? 
@@ -7,7 +10,9 @@
 
 ####  🦄 Let'sGO !!! 
 
-##  ⚡️ 
+<br>
+
+###  ⚡️ 
 
 
 <br><br>
@@ -81,3 +86,10 @@ Solicito suporte financeiro para concluir módulos essenciais da pesquisa, inclu
 A bolsa permitirá desenvolver um framework replicável e open-source para Emotional AI Ética, alinhado às regulamentações internacionais de segurança e governança.
 
 
+<br><br><br>
+
+
+<img width="1372" height="642" alt="Image" src="https://github.com/user-attachments/assets/74d92432-57d5-4782-990c-9fb1b635c655" />
+
+
+<br><br><br>
