@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-> [!TIP]
+> [!NOTE]
 > 
 > * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)* <br>
 > 
@@ -119,7 +119,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 <br><br>
 
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 > * Part of this project’s results will be presented by [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) at The [**Summit IEIA**](https://www.summitieia.com/) — the [*Leading International Event*](https://www.summitieia.com/) on [*Emotional Intelligence & Artificial Intelligence*](https://www.summitieia.com/).
 >
@@ -161,9 +161,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 >  - 🇪🇺 [European Commission Site Regulations Documents](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
 >
->  - 🇪🇺🇧🇷 [Brazil's GDPR Adequacy: Level of Personal Data Protection under Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
->
-> <br>
+>  - 🇪🇺🇧🇷 [Brazil's GDPR Adequacy: Level of Personal Data Protection under Regulation (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)  <br>
+> 
 >
 
 
@@ -202,56 +201,54 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 23. [💚 Our Crew](#our-crew)  
 24. [Bibliography](#bibliography)
 
+
 <br><br>    
 
 
 > [!IMPORTANT]
 >
-> Note: This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).
-> Some data and scenarios presented in this document are fictional, intended to transform the initial concept into a viable plan and prepare it for real-world launch.
-> MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.
+> [***Note:***]() - This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).
+> <br>
+> * Some data and scenarios presented in this document are fictional, intended to transform the initial concept into a viable plan and prepare it for real-world launch. <br>
+> * MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.  <br>
 >
 
-<br><br>
 
-# 1- [Project Introduction - Mindful Emotional AI]()
-
-
-<br>
-
-[**Mindful Emotional AI**]() is an innovative startup developed within the [*Humanistic AI and Data Science* program at PUC-SP](). Its mission is to provide a scalable, ethical, and reliable Emotional AI through the [**InferenceOps**]() paradigm, ensuring operational efficiency and real-time governance.
 
 <br><br>
 
 
-## 2. [Context of Digital Transformation, Corporate Compliance, and SAP GTS E4HANA]()
+
+# 1 — [Introdução do Projeto - Mindful Emotional AI]()
 
 <br>
 
-The migration to SAP Global Trade Services (GTS) E4HANA represents a strategic challenge for several global organizations that need to update legacy systems (SAP GTS ECC/11) due to the end of support in 2025. This transition is not merely technical but involves a complex operational and regulatory transformation.
-
-Traditional international trade and compliance processes face risks of discontinuity, increased costs, and a shortage of specialists during this migration. The scarcity of qualified professionals and the need for seamless integration with modern systems place significant pressure on IT and compliance teams.
-
-More details about key challenges and strategies for this migration can be found in this comprehensive overview: [Key Challenges & Strategies for S/4HANA Cloud Migration in 2025](https://www.ve3.global/key-challenges-strategies-for-s-4hana-cloud-migration-in-2025/).
-
-In this context, the Mindful Emotional AI project offers innovative solutions in artificial emotional intelligence and governance, aligning ethics, scalability, and regulatory compliance. Thus, MindfulAI helps organizations deal not only with technological challenges but also with the human and emotional impact of digital transformations, promoting wellbeing, conscious decision-making, and adaptive governance in dynamic and regulated corporate environments.
-
-Therefore, the project fits into a scenario of integrated technological innovation, strengthening the value chain and the sustainability of compliance processes and modern organizational transformation.
+[**Mindful Emotional AI**]() é um projeto de criação de uma startup inovadora, atualmente em desenvolvimento pelo Núcleo de Inovação da graduação em *Humanistic AI and Data Science* da PUC-SP. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional, governança em tempo real e alinhamento com as melhores práticas internacionais.
 
 <br><br>
 
 
-## [Why is Mindful Emotional AI Innovative?]()
+## [Por que a Mindful Emotional AI é Inovadora?]()
 
 <br>
 
-[**Mindful Emotional AI**]() is transforming the way we understand Emotional AI by integrating multiple types of data—voice, text, facial expressions, and physiological signals—to perform [**real-time inference**](), meaning it interprets emotions immediately and contextually. This includes [**Natural Language Processing (NLP)**](), a field of AI that enables computers to understand, interpret, and generate human language, allowing the system to analyze text and speech as part of emotional recognition.
+[**Mindful Emotional AI**]() tem a intenção de transformar a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados — voz, texto, expressões faciais e sinais fisiológicos — para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual.
 
-Based on the [**InferenceOps**]() paradigm, which involves deployment, monitoring, and automated adjustment of AI models to maintain performance and efficiency, the startup delivers [**scalable**]() solutions capable of growing and handling increasingly large volumes of data and users without loss of quality or performance, while remaining transparent and compliant with international regulations such as the [**GDPR**]() (General Data Protection Regulation of the European Union) and the [**EU AI Act**]() (European regulatory framework for ethical, safe, and transparent AI).
+Isso inclui o uso de [**Processamento de Linguagem Natural (NLP)**](), área da IA que permite que computadores compreendam, interpretem e gerem linguagem humana, possibilitando que o sistema analise texto e fala como parte central do reconhecimento emocional.
 
-Its [**modular architecture**]() allows components to be adapted or replaced according to the needs of different sectors, such as healthcare, finance, advertising, mental health, automotive, and education. Supported by academic partnerships and continuous innovation cycles, [**Mindful Emotional AI**]() connects cutting-edge technology with real social and ethical impacts.
+<br>
 
-By applying techniques capable of recognizing and interpreting human emotions from multiple data sources, including NLP for text and speech, the startup enables more empathetic and personalized interactions, enhances user experience, and strengthens conscious and responsible decision-making across contexts that directly affect everyday life.
+Baseada no paradigma [**InferenceOps**]() — que envolve implantação, monitoramento e ajuste automatizado de modelos de IA para manter desempenho, estabilidade e eficiência — a startup entrega soluções [**escaláveis**]() capazes de lidar com volumes crescentes de dados e usuários sem perda de qualidade ou performance.
+
+Além disso, mantém transparência e conformidade com regulamentações internacionais como o [**GDPR**]() (Regulamento Geral de Proteção de Dados da União Europeia) e o [**EU AI Act**]() (marco regulatório europeu para IA ética, segura e transparente), atendendo também a padrões rigorosos de **Governança e Compliance**.
+
+<br>
+
+Sua [**arquitetura modular**]() permite que componentes sejam adaptados ou substituídos conforme as necessidades de diferentes setores, como saúde, finanças, publicidade, saúde mental, setor automotivo e educação. Com apoio de parcerias acadêmicas e ciclos contínuos de inovação, a [**Mindful Emotional AI**]() conecta tecnologia de ponta a impactos sociais e éticos concretos.
+
+<br>
+
+Ao aplicar técnicas capazes de reconhecer e interpretar [emoções humanas]() a partir [de múltiplas fontes de dados](), incluindo [NLP]() para texto e fala, a startup possibilita interações mais [empáticas]() e [personalizadas](), melhora a experiência do usuário e fortalece a tomada de decisões [conscientes]() e [responsáveis]() em contextos que afetam diretamente o cotidiano.
 
 
 <br><br>
@@ -259,8 +256,10 @@ By applying techniques capable of recognizing and interpreting human emotions fr
 
 > [!IMPORTANT]
 >
-> This project positions MindfulAI as a cutting-edge startup capable of transforming the relationship between humans and machines through ethical, scalable, and governed artificial emotional intelligence.
+> * This project positions MindfulAI as a cutting-edge startup capable of transforming the relationship between humans and machines through ethical, scalable, and governed artificial emotional intelligence.  <br>
+> 
 >
+
 
 <br><br>
 
