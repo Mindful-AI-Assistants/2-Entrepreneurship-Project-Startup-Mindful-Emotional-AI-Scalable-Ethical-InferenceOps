@@ -214,44 +214,42 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 
 
+<br><br><br>
+
+
+# 1 — [Project Introduction – Mindful Emotional AI]()
+
+<br>
+
+[**Mindful Emotional AI**]() is a project dedicated to creating an innovative startup currently being developed by the Innovation Lab of the *Humanistic AI and Data Science* undergraduate program at PUC-SP. Its mission is to offer a scalable, ethical, and trustworthy Emotional AI powered by the [**InferenceOps**]() paradigm, ensuring operational efficiency, real-time governance, and alignment with international best practices.
 
 <br><br>
 
 
-
-# 1 — [Introdução do Projeto - Mindful Emotional AI]()
-
-<br>
-
-[**Mindful Emotional AI**]() é um projeto de criação de uma startup inovadora, atualmente em desenvolvimento pelo Núcleo de Inovação da graduação em *Humanistic AI and Data Science* da PUC-SP. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional, governança em tempo real e alinhamento com as melhores práticas internacionais.
-
-<br><br>
-
-
-## [Por que a Mindful Emotional AI é Inovadora?]()
+[Why Is Mindful Emotional AI Innovative?]()
 
 <br>
 
-[**Mindful Emotional AI**]() tem a intenção de transformar a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados — voz, texto, expressões faciais e sinais fisiológicos — para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual.
+[**Mindful Emotional AI**]() aims to transform the way we understand Emotional AI by integrating multiple data modalities — voice, text, facial expressions, and physiological signals — to perform [**real-time inference**](), meaning the ability to interpret emotions immediately and contextually.
 
-Isso inclui o uso de [**Processamento de Linguagem Natural (NLP)**](), área da IA que permite que computadores compreendam, interpretem e gerem linguagem humana, possibilitando que o sistema analise texto e fala como parte central do reconhecimento emocional.
-
-<br>
-
-Baseada no paradigma [**InferenceOps**]() — que envolve implantação, monitoramento e ajuste automatizado de modelos de IA para manter desempenho, estabilidade e eficiência — a startup entrega soluções [**escaláveis**]() capazes de lidar com volumes crescentes de dados e usuários sem perda de qualidade ou performance.
-
-Além disso, mantém transparência e conformidade com regulamentações internacionais como o [**GDPR**]() (Regulamento Geral de Proteção de Dados da União Europeia) e o [**EU AI Act**]() (marco regulatório europeu para IA ética, segura e transparente), atendendo também a padrões rigorosos de **Governança e Compliance**.
+This includes the use of [**Natural Language Processing (NLP)**](), an area of AI that enables computers to understand, interpret, and generate human language, allowing the system to analyze text and speech as core components of emotional recognition.
 
 <br>
 
-Sua [**arquitetura modular**]() permite que componentes sejam adaptados ou substituídos conforme as necessidades de diferentes setores, como saúde, finanças, publicidade, saúde mental, setor automotivo e educação. Com apoio de parcerias acadêmicas e ciclos contínuos de inovação, a [**Mindful Emotional AI**]() conecta tecnologia de ponta a impactos sociais e éticos concretos.
+Built on the [**InferenceOps**]() paradigm — which involves automated deployment, monitoring, and continuous optimization of AI models — the startup delivers [**scalable**]() solutions capable of handling increasing volumes of data and users without loss of quality or performance.
+
+It also maintains transparency and compliance with international regulations such as the [**GDPR**]() (General Data Protection Regulation of the European Union) and the [**EU AI Act**]() (Europe’s regulatory framework for ethical, safe, and transparent AI), following rigorous standards of **Governance and Compliance**.
 
 <br>
 
-Ao aplicar técnicas capazes de reconhecer e interpretar [emoções humanas]() a partir [de múltiplas fontes de dados](), incluindo [NLP]() para texto e fala, a startup possibilita interações mais [empáticas]() e [personalizadas](), melhora a experiência do usuário e fortalece a tomada de decisões [conscientes]() e [responsáveis]() em contextos que afetam diretamente o cotidiano.
+Its [**modular architecture**]() allows components to be adapted or replaced according to the needs of different sectors, including healthcare, finance, advertising, mental health, automotive, and education. Supported by academic partnerships and continuous innovation cycles, [**Mindful Emotional AI**]() bridges cutting-edge technology with real social and ethical impact.
+
+<br>
+
+By applying techniques capable of recognizing and interpreting [human emotions]() from [multiple data sources](), including [NLP]() for text and speech, the startup enables more [empathetic]() and [personalized]() interactions, enhances user experience, and strengthens [conscious]() and [responsible]() decision-making in contexts that directly affect daily life.
 
 
-<br><br>
+<br><br><br>
 
 
 > [!IMPORTANT]
@@ -261,10 +259,11 @@ Ao aplicar técnicas capazes de reconhecer e interpretar [emoções humanas]() a
 >
 
 
-<br><br>
+<br><br><br>
 
 
-## [Fundamental Concepts: Machine Learning and InferenceOps]()
+
+## - [Fundamental Concepts: Machine Learning and InferenceOps]()
 
 <br>
 
@@ -291,13 +290,15 @@ Mindful Emotional AI applies this inference to quickly and accurately capture hu
 
 <br>
 
-> Our system incorporates these dimensions in the operation of InferenceOps, ensuring security and responsibility.
+
+> ***Our system incorporates these dimensions in the operation of InferenceOps, ensuring security and responsibility.**
 
 
 <br>
 
 
-## [What We Offer]()
+
+## - [What We Offer]()
 
 <br>
 
