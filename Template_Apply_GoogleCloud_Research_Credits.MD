@@ -1,16 +1,20 @@
-https://edu.google.com/programs/credits/research/?modal_active=none
+<br><br>
+
+
+
+###  -      [](https://edu.google.com/programs/credits/research/)
 
 <br>
 
-Google Cloud's pricing calculator [***LINK***](https://cloud.google.com/products/calculator) - Configure products to get a cost estimate
+### -  Google Cloud's pricing calculator [***LINK***](https://cloud.google.com/products/calculator) - Configure products to get a cost estimate
 
 
 <br><br>
 
 
-# -----------------------------------------
-#  🇬🇧 English Version 
-# -----------------------------------------
+###  -----------------------------------------
+###   🇬🇧 English Version 
+###  -----------------------------------------
 
 
 <br><br>
@@ -36,16 +40,12 @@ The grant will allow the creation of a replicable, open-source research framewor
 
 
 
-<br><br>
-
-#
-
-<br><br>
+<br><br><br><br>
 
 
-# -----------------------------------------
-#  🇧🇷 English Version 
-# -----------------------------------------
+### -----------------------------------------
+###  🇧🇷 English Version 
+### -----------------------------------------
 
 
 <br><br>
