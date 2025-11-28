@@ -109,11 +109,10 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >   - Pedro Barrenco  
 >   - Andson Ribeiro  
 >   - Luan Fabiano  
->   - Jose Augusto
+>   - Jose Augusto <br>
+>   - ***Add The Whole ClassMates - I am Doping thois For them , For me , For My country*** 
 >
-> <br>
->
-
+ 
 
 <br><br>
 
@@ -121,13 +120,12 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br><br>
 
+
 > [!IMPORTANT]
 >
-> <br>
+> * Parte dos resultados deste projeto será apresentada pelo [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) no [**Summit IEIA**](https://www.summitieia.com/) — o [*Principal Evento Internacional*](https://www.summitieia.com/) sobre [*Inteligência Emocional & Inteligência Artificial*] <br>(
 >
-> * Parte dos resultados deste projeto será apresentada pelo [**Dr. André Iório**](https://www.linkedin.com/in/andre-iorio-40721b170/) no [**Summit IEIA**](https://www.summitieia.com/) — o [*Principal Evento Internacional*](https://www.summitieia.com/) sobre [*Inteligência Emocional & Inteligência Artificial*](https://www.summitieia.com/).
 >
-> <br>
 
 
 <br><br>
