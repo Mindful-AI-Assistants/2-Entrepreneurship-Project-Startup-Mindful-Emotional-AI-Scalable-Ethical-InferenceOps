@@ -1,12 +1,23 @@
 <br><br>
 
 
+#### Where and How  🌱 to Start ? 
 
-###  -      [](https://edu.google.com/programs/credits/research/)
+####  On the Links Below !! 🌻
+
+####  🦄 Let'sGO !!! 
+
+##  ⚡️ 
+
+
+<br><br>
+
+
+####  1-   Apply for Google Cloud research Credits [](https://edu.google.com/programs/credits/research/) Academic Research Grants   
 
 <br>
 
-### -  Google Cloud's pricing calculator [***LINK***](https://cloud.google.com/products/calculator) - Configure products to get a cost estimate
+#### 2-  Google Cloud's pricing calculator [***LINK***](https://cloud.google.com/products/calculator) - Configure products to get a cost estimate
 
 
 <br><br>
