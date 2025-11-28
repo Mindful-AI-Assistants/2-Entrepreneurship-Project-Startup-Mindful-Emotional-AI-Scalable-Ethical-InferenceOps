@@ -238,37 +238,20 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 <br>
 
-[**Mindful Emotional AI**]() é uma startup inovadora desenvolvida no programa [*IA Humanística e Ciência de Dados* da PUC-SP]. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional e governança em tempo real.
+[**Mindful Emotional AI**]() é um projeto de criação de uma startup inovadora e que atualemtainda esta sebdo desencovlido pelo nucleo de Inovacao da Gradiacao em  [*Humanístic AI and  Data Science*] da a PUC-SP. Sua missão é oferecer uma Emotional AI escalável, ética e confiável por meio do paradigma [**InferenceOps**](), garantindo eficiência operacional e governança em tempo rea e alinhado ccom 
 
-<br><br>
-
-
-## 2. [Contexto de Transformação Digital, Compliance Corporativo e SAP GTS E4HANA]()
-
-<br>
-
-A migração para o SAP Global Trade Services (GTS) E4HANA representa um desafio estratégico para várias organizações globais, que precisam atualizar sistemas legados (SAP GTS ECC/11) devido ao fim do suporte em 2025. Essa transição não é apenas técnica, mas envolve uma transformação operacional e regulatória complexa.
-
-Os processos tradicionais de comércio internacional e compliance enfrentam riscos de descontinuidade, aumento de custos e déficit de especialistas durante essa migração. A escassez de profissionais qualificados e a necessidade de integração transparente com sistemas modernos impõe uma pressão significativa aos times de TI e compliance.
-
-Mais detalhes sobre os principais desafios e estratégias dessa migração estão disponíveis neste artigo abrangente: [Principais Desafios e Estratégias para a Migração para S/4HANA Cloud em 2025](https://www.ve3.global/key-challenges-strategies-for-s-4hana-cloud-migration-in-2025/).
-
-Neste contexto, o projeto Mindful Emotional AI oferece soluções inovadoras de inteligência emocional artificial e governança, alinhando ética, escalabilidade e conformidade regulatória. Desta forma, o MindfulAI auxilia organizações a lidar não apenas com os desafios tecnológicos, mas também com o impacto humano e emocional das transformações digitais, promovendo bem-estar, tomada de decisão consciente e governança adaptativa em ambientes corporativos dinâmicos e regulados.
-
-Assim, o projeto se insere num cenário de inovação tecnológica integrada, fortalecendo a cadeia de valor e a sustentabilidade dos processos de compliance e transformação organizacional moderna.
-
-<br><br>
+<br><br> 
 
 
 ## [Por que a Mindful Emotional AI é Inovadora?]()
 
 <br>
 
-[**Mindful Emotional AI**]() está transformando a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados: voz, texto, expressões faciais e sinais fisiológicos para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual. Isso inclui [**Processamento de Linguagem Natural (NLP)**](), um campo da IA que permite que computadores compreendam, interpretem e gerem a linguagem humana, permitindo que o sistema analise textos e fala como parte do reconhecimento emocional.
+[**Mindful Emotional AI**]() está  tem a iontencao de transformando a forma como entendemos a Emotional AI ao integrar múltiplos tipos de dados: voz, texto, expressões faciais e sinais fisiológicos para realizar [**inferência em tempo real**](), ou seja, interpretar emoções de maneira imediata e contextual. Isso inclui [**Processamento de Linguagem Natural (NLP)**](), um campo da IA que permite que computadores compreendam, interpretem e gerem a linguagem humana, permitindo que o sistema analise textos e fala como parte do reconhecimento emocional.
 
 <br>
 
-Baseada no paradigma [**InferenceOps**]() que envolve implantação, monitoramento e ajuste automatizado de modelos de IA para manter desempenho e eficiência, a startup entrega soluções [**escaláveis**]() capazes de crescer e lidar com volumes cada vez maiores de dados e usuários sem perda de qualidade ou performance, permanecendo transparente e em conformidade com regulamentações internacionais como o [**GDPR**]() (Regulamento Geral de Proteção de Dados da União Europeia) e o [**EU AI Act**]() (marco regulatório europeu para IA ética, segura e transparente).
+Baseada no paradigma [**InferenceOps**]() que envolve implantação, monitoramento e ajuste automatizado de modelos de IA para manter desempenho e eficiência, a startup entrega soluções [**escaláveis**]() capazes de crescer e lidar com volumes cada vez maiores de dados e usuários sem perda de qualidade ou performance, permanecendo transparente e em conformidade com regulamentações internacionais como o [**GDPR**]() (Regulamento Geral de Proteção de Dados da União Europeia) e o [**EU AI Act**]() (marco regulatório europeu para IA ética, segura e transparente), Goverbnabnca e Complianiace
 
 <br>
 
@@ -484,7 +467,27 @@ A [**Mindful Emotional AI**]() é essencial para os clientes porque oferece uma 
 Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA) e startups bem-sucedidas de Emotion AI, que melhoram a interação e saúde mental digital com governança ética e tecnologia avançada.
 
 
+
 <br><br>
+
+
+## 2. [Contexto de Transformação Digital, Compliance Corporativo e SAP GTS E4HANA]()
+
+<br>
+
+A migração para o SAP Global Trade Services (GTS) E4HANA representa um desafio estratégico para várias organizações globais, que precisam atualizar sistemas legados (SAP GTS ECC/11) devido ao fim do suporte em 2025. Essa transição não é apenas técnica, mas envolve uma transformação operacional e regulatória complexa.
+
+Os processos tradicionais de comércio internacional e compliance enfrentam riscos de descontinuidade, aumento de custos e déficit de especialistas durante essa migração. A escassez de profissionais qualificados e a necessidade de integração transparente com sistemas modernos impõe uma pressão significativa aos times de TI e compliance.
+
+Mais detalhes sobre os principais desafios e estratégias dessa migração estão disponíveis neste artigo abrangente: [Principais Desafios e Estratégias para a Migração para S/4HANA Cloud em 2025](https://www.ve3.global/key-challenges-strategies-for-s-4hana-cloud-migration-in-2025/).
+
+Neste contexto, o projeto Mindful Emotional AI oferece soluções inovadoras de inteligência emocional artificial e governança, alinhando ética, escalabilidade e conformidade regulatória. Desta forma, o MindfulAI auxilia organizações a lidar não apenas com os desafios tecnológicos, mas também com o impacto humano e emocional das transformações digitais, promovendo bem-estar, tomada de decisão consciente e governança adaptativa em ambientes corporativos dinâmicos e regulados.
+
+Assim, o projeto se insere num cenário de inovação tecnológica integrada, fortalecendo a cadeia de valor e a sustentabilidade dos processos de compliance e transformação organizacional moderna.
+
+
+<br><br>
+
 
 
 # 3-  [The Problem and the Solution — InferenceOps for Emotion AI]()
@@ -494,6 +497,8 @@ Seguimos o modelo de grandes players como AWS (plataformas de inferência em IA)
 - [Tradicional:]() Isolada por canal, redundante em infraestrutura, com baixa governança e escalabilidade.
 
 -  [Moderna:]() Multimodal, integrada, mas exigente em termos de infraestrutura e governança sem uma solução centralizada.
+
+
 
 <br>
   
