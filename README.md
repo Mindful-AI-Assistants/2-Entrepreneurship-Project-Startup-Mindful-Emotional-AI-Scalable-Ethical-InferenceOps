@@ -91,6 +91,18 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 #
 
+
+> [!IMPORTANT]
+>
+>  ### *  🚨 EU AI Act & Brazil Compliance Test: EmotionAI-InferenceOps + 
+>  ### * RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT
+> 
+
+
+<br><br>
+
+#
+
 <br><br>
 
 
