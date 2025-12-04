@@ -103,12 +103,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 >
 > 
 
-<br><br>> 
+
+<br><br>
 
 #
 
+<br><br>
 
-<br><br>> 
 
 > [!NOTE]
 >  
@@ -117,8 +118,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > #### * High Risk: Emotion recognition systems not falling under the specific prohibition are generally classified as high-risk when used in areas that affect fundamental rights, such as: <br>
 > #### * Biometric Categorisation: AI systems intended to be used for biometric categorization based on sensitive attributes or characteristics inferred from those attributes.  <br>
 > #### * Essential Services/Healthcare: AI used to evaluate eligibility for essential public assistance benefits and services, including healthcare services (which applies to mental health).  <br>
->  <br>
+> <br>
 >
+
 
 <br><br>
 
