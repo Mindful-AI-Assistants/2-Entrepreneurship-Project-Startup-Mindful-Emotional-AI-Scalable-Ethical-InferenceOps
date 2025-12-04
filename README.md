@@ -238,22 +238,25 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 24. [Bibliography](#bibliography)
 
 
+<br><br> 
+
+#
+
 <br><br>    
 
 
 > [!IMPORTANT]
 >
-> [***Note:***]() - This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).
-> <br>
+> * [***Note:***]() - This project was developed as part of the Entrepreneurship and Innovation course in the Humanistic AI undergraduate program at PUC São Paulo (PUC-> SP).  <br>
 > * Some data and scenarios presented in this document are fictional, intended to transform the initial concept into a viable plan and prepare it for real-world launch. <br>
 > * MindfulAI aims to build an ethical, scalable, and innovative Emotion AI solution aligned with current technical, regulatory, and social demands.  <br>
+>  <br>
 >
-
 
 <br><br><br>
 
 
-# 1 — [Project Introduction – Mindful Emotional AI]()
+# 1- [Project Introduction – Mindful Emotional AI]()
 
 <br>
 
