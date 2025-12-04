@@ -98,8 +98,8 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > [!IMPORTANT]
 > 
 >  * 🚨 The confluence of Emotion AI-InferenceOps (Emotion Recognition AI systems) with the regulated field of Psychology in Brazil presents a complex legal and ethical challenge under both the proposed Brazilian AI Bill and the EU AI Act. <br>
->  #### *  RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT  <br>
->  #### * 
+>  *  RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT  <br>
+>  * 
 >
 > 
 
@@ -114,9 +114,9 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!NOTE]
 >  
-> #### * 🇪🇺 Under the EU AI Act, the use of AI systems intended for emotion recognition is specifically addressed and categorized, often as high-risk or even prohibited.
->
-> #### *
+> * 🇪🇺 Under the EU AI Act, the use of AI systems intended for emotion recognition is specifically addressed and categorized, often as high-risk or even prohibited. <br>
+> *
+> 
 > 
 >  
 > 
