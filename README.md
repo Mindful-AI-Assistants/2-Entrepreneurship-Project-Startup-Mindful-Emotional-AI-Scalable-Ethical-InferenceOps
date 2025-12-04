@@ -94,7 +94,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!IMPORTANT]
 >
->  ### *  🚨 EU AI Act & Brazil Compliance Test: EmotionAI-InferenceOps + 
+>  ### *  🚨 EU AI Act & Brazil Compliance Test: EmotionAI-InferenceOps + Federal Council of Psychology (CFP -BRA) + 
 >  ### * RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT
 > 
 
