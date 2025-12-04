@@ -115,20 +115,19 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > [!NOTE]
 >  
 > * 🇪🇺 Under the EU AI Act, the use of AI systems intended for emotion recognition is specifically addressed and categorized, often as high-risk or even prohibited. <br>
-> *
-> 
-> 
+> * Prohibited Risk: AI systems intended to infer emotions of a natural person in the areas of the workplace and educational institutions are strictly prohibited, with limited exceptions (e.g., for safety reasons). This would directly impact any "EmotionAI-InferenceOps" used by an educational institution like PUC-SP or within the CRP/CFP structure for management or assessment, unless solely for safety/medical purposes. <br>
+> * High Risk: Emotion recognition systems not falling under the specific prohibition are generally classified as high-risk when used in areas that affect fundamental rights, such as: <br>
+> * Biometric Categorisation: AI systems intended to be used for biometric categorization based on sensitive attributes or characteristics inferred from those attributes.
 >  
 > 
 >  
 
 
 
-Prohibited Risk: AI systems intended to infer emotions of a natural person in the areas of the workplace and educational institutions are strictly prohibited, with limited exceptions (e.g., for safety reasons). This would directly impact any "EmotionAI-InferenceOps" used by an educational institution like PUC-SP or within the CRP/CFP structure for management or assessment, unless solely for safety/medical purposes.
 
-High Risk: Emotion recognition systems not falling under the specific prohibition are generally classified as high-risk when used in areas that affect fundamental rights, such as:
 
-Biometric Categorisation: AI systems intended to be used for biometric categorization based on sensitive attributes or characteristics inferred from those attributes.
+
+
 
 Essential Services/Healthcare: AI used to evaluate eligibility for essential public assistance benefits and services, including healthcare services (which applies to mental health).
 
@@ -141,7 +140,8 @@ Essential Services/Healthcare: AI used to evaluate eligibility for essential pub
 
 <br><br>
 
-[!IMPORTANT]
+
+> [!IMPORTANT]
 > 
 > * **Founder:** [**Fabiana ⚡️ Campanari**](https://linktr.ee/fabianacampanari) — *Psychologist (PUC-SP)*; *Undergraduate in Humanistic AI & Data Science (PUC-SP)* <br>
 > 
