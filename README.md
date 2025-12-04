@@ -94,9 +94,21 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 
 > [!IMPORTANT]
 >
->  ### *  🚨 EU AI Act & Brazil Compliance Test: EmotionAI-InferenceOps + Federal Council of Psychology (CFP -BRA) + Regional Councils of Psychology (CRPs - BRA-States)
->  ### * RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT
 > 
+>  * 🚨 The confluence of Emotion AI-InferenceOps (Emotion Recognition AI systems) with the regulated field of Psychology in Brazil presents a complex legal and ethical challenge under both the proposed Brazilian AI Bill and the EU AI Act. <br>
+>  #### *  RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT  <br>
+>  #### *
+
+
+>
+> 
+
+
+
+
+
+
+
 
 
 <br><br>
