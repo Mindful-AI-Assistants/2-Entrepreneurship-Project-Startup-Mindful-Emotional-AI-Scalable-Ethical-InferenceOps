@@ -101,7 +101,7 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > #### * RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT  <br>
 > #### * ⚠️ Learn more about prohibited AI practices in the EU: [Check out the EU Artificial Intelligence Act — Article 5: Prohibited AI Practices](https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-5) to understand which AI uses are considered unacceptably risky and completely banned by the European Union.<br>
 > #### * ⚠️ Learn about Conformity Assessment for AI Systems (Recital 29):[Access Recital 29 — EU Artificial Intelligence Act](https://artificialintelligenceact.eu/recital/29/) about AI uses that are completely banned by the European Union. <br>
-> #### * [Check All Reseach In this Repo:](): 🇧🇷 Brazil Compliance: AI Regulation & Psychology's Stance - 🚧 ***REPO WILL BE BUILT***
+> #### * 🚧  6th AI Congress — Nov 2025, PUC-SP: [Access Full Research & Details]() - (PS: I built the repository in Nov 2025 with full resources)
 > <br>
 > 
 
