@@ -99,6 +99,13 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > 
 > #### * 🚨 The confluence of Emotion AI-InferenceOps (Emotion Recognition AI systems) with the regulated field of Psychology in Brazil presents a complex legal and ethical challenge under both the proposed Brazilian AI Bill and the EU AI Act. <br>
 > #### * RESULTS: ❌ HIGH-RISK / POTENTIALLY NON-COMPLIANT  <br>
+> #### * ⚠️ Learn more about prohibited AI practices in the EU:
+[Check out the EU Artificial Intelligence Act — Article 5: Prohibited AI Practices
+to understand which AI uses are considered unacceptably risky and completely banned by the European Union.](https://artificialintelligenceact.eu/article/5/?utm_source=chatgpt.com)
+
+
+
+
 > #### * ⚠️ Prohibited AI Practices in the EU:
 > [Learn more here](https://artificialintelligenceact.eu/recital/29/) about AI uses that are completely banned by the European Union. <br>
 > #### * [Check All Reseach In this Repo:](): 🇧🇷 Brazil Compliance: AI Regulation & Psychology's Stance - 🚧 ***REPO WILL BE BUILT***
