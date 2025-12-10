@@ -175,18 +175,15 @@ https://github.com/user-attachments/assets/e2771de0-ca57-4750-b708-74f0dceaade3
 > - 🇬🇧 [Arquiteturas de Governança Global de IA: Da Mudança Tecnológica à Escolha Humana, Matthijs M Maas](https://academic.oup.com/book/61416?login=false)
 > 
 >  - 🇪🇺 [EU AI ACT - Práticas de IA Emocionalmente Proibidas](https://bluearrow.ai/emotion-recognition/)
->
 >  - 🇪🇺 [Documentos Regulamentares da Comissão Europeia](https://commission.europa.eu/document/f5aee532-70bf-41b1-a94a-8e294a528f6a_en)
->
->  - 🇪🇺🇧🇷 [Adequação do Brasil ao GDPR: Nível de Proteção de Dados Pessoais segundo o Regulamento (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025)
->
+>  - 🇪🇺🇧🇷 [Adequação do Brasil ao GDPR: Nível de Proteção de Dados Pessoais segundo o Regulamento (EU) 2016/679 - 2025/10](https://github.com/Mindful-AI-Assistants/Project-Startup-Mindful-Emotional-AI-Scalable-Ethical-InferenceOps/tree/e5b33473b87a3da63fd4a5206340fca21b52c01c/The-state-of-crm-data-management-in-202522-2025) <br>
 > <br>
 >
 
+
+
 <br><br><br>
 
-
-<br><br>
 
 
 ##  Table of Contents
