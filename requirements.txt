@@ -30,7 +30,7 @@ nltk==3.9.2
 spacy==3.8.11
 
 # Web Scraping Libraries:
-beautifulsoup4==4.14.2
+beautifulsoup4==4.14.3
 requests==2.32.5
 
 # Database Libraries:
